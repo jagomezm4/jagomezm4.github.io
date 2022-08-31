@@ -1,0 +1,54 @@
+---
+title: "Web Page info"
+author: "John Gómez-Mahecha"
+date: "2022-08-31"
+output: html_document
+---
+
+## About me
+
+I am a Ph.D. candidate in Economics at Georgia State University and a graduated RA at the Center for State and Local Finance (CSFL). My main research interest lies in the intersection of environmental, public, and development economics. My most recent research has mainly focused on the quantitative analysis of environmental and social policy in developing countries. 
+    	
+I am an economist from Universidad de los Andes (Bogota, Colombia), from where I also hold a master’s degree in economics. I am expected graduation date is Spring 2023. You can find my **curriculum vitae**, *[here](CV/latestCV.pdf)*. 
+
+## Working Papers
+**Colombian Carbon Tax: Evidence of Carbon Pricing in Developing Countries**. August, 2022.
+
+<font size="2">*Recently, Colombia implemented its first Carbon tax. In 2017, it became the 3rd country in Latin America to implement it and the 23rd in the world. However, its implementation is just one example of how middle and low-income countries have started implementing this kind of market-based strategy. This paper seeks to understand the effects of the Colombian tax on the consumption of various fuels and emissions of CO2. I use a set of estimators, recently named as counterfactual estimators, that are shown to provide a more flexible framework to provide consistent treatment efefcts estimators. I find evidence that the tax reform reduces Colombia’s emission of CO2 per capita by almost 13% per year within four years after its implementation. Although the results are not statistically significative, there is evidence that the tax is effectively reducing the fuels consumption, and suggest that the failure to reject a zero effect might come from power restrictions of the design.*</font>
+
+
+[**COVID-19 mortality and contemporaneous air pollution**](https://bit.ly/2XYafgg). With W. Austin, S. Carattini and M. Pesko. Revisions Requested at Journal of Environmental Economics and Management. October 2020. 
+
+<font size="2">*We examine the relationship between contemporaneous fine particulate matter exposure and COVID-19 morbidity and mortality using an instrumental variable approach based on wind direction. Harnessing daily changes in county-level wind direction, we show that arguably exogenous fluctuations in local air quality impact the rate of confirmed cases and deaths from COVID-19. In our preferred high dimensional fixed effects specification with state-level policy and social distancing controls, we find that a one \mu g/m^3 increase in PM 2.5 increases the number of confirmed cases by roughly 2% from the mean case rate in a county. These effects tend to increase in magnitude over longer time horizons, being twice as large over a 3-day period. Meanwhile, a one \mu g/m^3 increase in PM 2.5 increases the same-day death rate by 3% from the mean. Our estimates are robust to a host of sensitivity tests. These results suggest that air pollution plays an important role in mediating the severity of respiratory syndromes such as COVID-19, for which progressive respiratory failure is the primary cause of death, and that policy levers to improve air quality may lead to improvements in COVID-19 outcomes.*</font>
+
+
+[**The Graduation approach for the reduction of extreme poverty: impact evaluation of Sembrando Oportunidades Familia por Familia in Paraguay**](https://bit.ly/32CAgEp). With J. H. Maldonado, V. León-Jurado, D. Rodríguez, and L. Villa. (2019). Documento CEDE, (2019-19). Revision requested at Journal of Development Effectiveness.  
+
+<font size="2">*Rural poverty, a widespread problem for the governments, led to the implementation of the "Sembrando Oportunidades Familia por Familia" program (Seeding Opportunities Family by Family), an initiative based on the graduation approach. This is one of the few cases in which governments are running this type of program. In this study, we evaluate the intervention outcomes to understand the effectiveness of this approach in reducing poverty. The evaluation shows positive changes in income, productive capacity, savings behavior, and perception of well-being but exhibits discrete consumption effects. These results might be associated with the need for governments to intervene rural communities with other programs. The results are helpful to adjust the design and prepare the scaling of programs that can help effectively overcome extreme poverty in this and other developing countries.*</font>
+
+### Work in Progress 
+**The Cost of Excluding the Coal from a Carbon Tax: The Colombian Case**
+
+
+**The “too near” effect of Urban greenway trails: The Case of Atlanta’s BeltLine** 
+
+
+## Publications
+
+### Journal Articles
+[**The Demand for Air Quality: A Case Study in Bogotá, Colombia**](https://www.cambridge.org/core/journals/environment-and-development-economics/article/demand-for-air-quality-evidence-from-the-housing-market-in-bogota-colombia/82E15EF74DA4284EFEFE3F9A93B94FA3). With Fernando Carriazo. Environment and Development Economics, 23 (2), 121-138. 
+ 
+[**Rural development programmes and conditional cash transfers: examining synergistic effects in Latin America**](http://bit.ly/1KqE7O6). With Jorge Maldonado and Tomás Rosada (IFAD). Policy in Focus: Social Protection, Entrepreneurship and Labour Market Activation, 12(2), 30-32, 2015. 
+
+
+### Books
+Maldonado, Moreno-Sánchez, Gómez and León (comp.) (2016). [**Protección, Producción, Promoción. Explorando sinergias entre protección social y fomento productivo rural eSn América Latina**](http://bit.ly/2jCb5ug). Ediciones Uniandes, Bogotá, Colombia. 
+
+### Book Chapters
+**Sinergias entre políticas de protección social y proyectos de desarrollo rural: aproximación desde la literatura existente y la teoría**. With Jorge H. Maldonado and Viviana León. In Maldonado, Moreno-Sánchez, Gómez and León (comp.) (2016). Protección, Producción, Promoción. Explorando sinergias entre protección social y fomento productivo rural en América Latina. Ediciones Uniandes, Bogotá, Colombia.
+
+
+
+
+
+
